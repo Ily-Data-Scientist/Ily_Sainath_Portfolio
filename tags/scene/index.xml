@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Ily Sainath</title>
+    <link>https://Ily-Data-Scientist.github.io/Ily_Sainath_Portfolio/tags/scene/</link>
+    <description>Recent content in scene on Ily Sainath</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 May 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://Ily-Data-Scientist.github.io/Ily_Sainath_Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3 : Blue Book for Bulldozers</title>
+      <link>https://Ily-Data-Scientist.github.io/Ily_Sainath_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 01 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://Ily-Data-Scientist.github.io/Ily_Sainath_Portfolio/post/project-1/</guid>
+      <description>Description: Fast Iron is creating a &amp;ldquo;blue book for bull dozers,&amp;rdquo; for customers to value what their heavy equipment fleet is worth at auction. The goal of the Project is to predict the sale price of a particular piece of heavy equipment at auction based on it&amp;rsquo;s usage, equipment type, and configuaration. The data is sourced from auction result postings and includes information on usage and equipment configurations.
+ </description>
+    </item>
+    
+  </channel>
+</rss>
